@@ -1,0 +1,21 @@
+body{background-color: aqua; font-family: Arial; margin: 10px;}
+table{background-color: rgb(155, 157,152);text-align: center;border: 2px solid rgb(31, 27, 27); padding: 10px; width: 80%; border-collapse: collapse ;margin: 0 auto;}
+th,td{border:solid 1px rgb(214, 105, 105) ;}
+TH,td{
+    BORDER:SOLID 1PX rgb(211, 179, 179);
+}
+th,td{
+    border:2px solid black;
+    padding: 40px;
+}
+thead{
+    background-color: rgb(197,103,197);
+    border-bottom: solid 2px black;
+    color: white;    
+}
+
+
+tr:hover td{
+    background-color: green;
+    color: red;
+}
